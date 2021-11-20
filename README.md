@@ -34,3 +34,6 @@ This project is licensed under the MIT license. The CI4 and AdminLTE3 are also l
 
 ### Contributions
 Please fork this repository and give a pull request. Any help, code or documentation is appreciated.
+
+### Additional note
+This AdminLTE with CI4 base is made by [Aghits Nidallah](https://github.com/aghits-nidallah).
