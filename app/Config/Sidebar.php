@@ -15,11 +15,6 @@ class Sidebar extends BaseConfig
                 'icon' => 'fa-tachometer-alt',
                 'title' => 'Dashboard',
                 'link' => site_url('admin'),
-            ],
-            [
-                'icon' => 'fa-sign-out-alt',
-                'title' => 'Log Out',
-                'link' => site_url('auth/logout'),
             ]
         ];
     }
